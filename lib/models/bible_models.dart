@@ -1,5 +1,6 @@
 /// Data models for the Torrey Bible App
 /// These models represent the structure of our JSON data
+library;
 
 class Verse {
   final int verse;
