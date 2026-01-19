@@ -78,6 +78,24 @@ assets/data/
    flutter run -d ios
    ```
 
+## 📱 Android Installation
+
+Pre-built Android APKs are available in `build/app/outputs/flutter-apk/`:
+
+- **app-release.apk** (23.9MB) - Optimized production version
+- **app-debug.apk** (89MB) - Development version with debugging
+
+### Quick Install
+```bash
+# Copy to device and install manually
+adb push build/app/outputs/flutter-apk/app-release.apk /sdcard/Download/
+
+# Or install directly via ADB
+adb install build/app/outputs/flutter-apk/app-release.apk
+```
+
+📋 See **[ANDROID_INSTALL.md](ANDROID_INSTALL.md)** for complete installation guide and troubleshooting.
+
 ## 📊 Data Processing
 
 The app uses pre-processed JSON data created from:
