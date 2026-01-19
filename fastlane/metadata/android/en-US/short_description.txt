@@ -1,0 +1,1 @@
+Comprehensive Bible study tool combining R.A. Torrey's topical textbook with the World English Bible. Features 622 biblical topics, complete Bible text, cross-references, and offline functionality.

@@ -1,0 +1,19 @@
+Torrey Bible Study combines R.A. Torrey's comprehensive New Topical Textbook with the World English Bible translation to create a powerful Bible study experience.
+
+Features:
+• 622 biblical topics organized by R.A. Torrey's systematic classification
+• Complete World English Bible with 66 books and over 31,000 verses
+• Cross-references connecting topics to relevant Bible passages
+• Intuitive navigation: Topics → Subtopics → Verses → Full Bible chapters
+• Search functionality across all topics and Bible content
+• Offline functionality - no internet connection required
+• Material Design 3 interface optimized for Android
+
+Educational Purpose:
+This app serves as a comprehensive Bible study tool, helping users explore biblical themes through topical organization while providing direct access to scripture text. The topical approach, pioneered by R.A. Torrey in 1897, remains one of the most effective methods for thematic Bible study.
+
+Content Sources:
+• World English Bible (Public Domain) - A modern English translation based on the American Standard Version
+• The New Topical Text Book by R.A. Torrey (Public Domain) - Originally published in 1897
+
+The app is completely free, open-source, and contains no advertisements or tracking.
